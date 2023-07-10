@@ -4,7 +4,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// https://github.com/taslims-code/test9.git
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
